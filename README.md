@@ -1,2 +1,2 @@
-# Zoom-stats
-HTMX/Go app that communicates with the Zoom API to get usefull information and automize some tasks with that data.
+# Discord-stats
+HTMX/Go app that communicates with the Discord API to get useful information and automize some tasks with that data.
